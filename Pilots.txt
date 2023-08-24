@@ -1,0 +1,10 @@
+30|John Doe|Civilian|2|75.5|180|true
+25|Jane Smith|Military|1|65.2|160|false
+40|Mark Johnson|Civilian|0|80.0|190|true
+35|Emily Davis|Military|3|55.7|170|false
+28|Michael Wilson|Civilian|1|70.3|175|true
+32|Sarah Taylor|Military|2|68.9|165|false
+27|Robert Anderson|Civilian|0|75.1|185|true
+33|Jessica Brown|Military|1|63.4|155|false
+29|David Miller|Civilian|2|72.8|178|true
+36|Olivia Thompson|Military|0|58.6|168|false
